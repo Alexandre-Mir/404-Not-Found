@@ -1,52 +1,17 @@
-<!-- Please update value in the {}  -->
+# 404 Not Found
 
-<h1 align="center">404 Not Found</h1>
+Soluçãp para um desafío do <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
 
-<div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
-</div>
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **404 Not Found**
+| :label: Tecnologias | html, css (tecnologias utilizadas)
+| :rocket: URL         | https://62fd94d862cae22deea65d4d--cool-bavarois-580d85.netlify.app/
+| :fire: Desafio     | https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY
 
-<div align="center">
-  <h3>
-    <a href="https://62fd94d862cae22deea65d4d--cool-bavarois-580d85.netlify.app/">
-      Demo
-    </a>
-    <span> | </span>
-    <a href="https://devchallenges.io/solutions/VJMzvB4LTngQTsigNb1z">
-      Solution
-    </a>
-    <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
-      Challenge
-    </a>
-  </h3>
-</div>
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](/assets/img/screen.png#vitrinedev)
 
-<!-- TABLE OF CONTENTS -->
+## Detalhes do projeto
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Contact](#contact)
-
-<!-- OVERVIEW -->
-
-## Overview
-
-![screenshot](/assets/img/screen.png)
-
-- Mobile-first
-- Grid
-- Semantic HTML 
-
-## Features
-
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
-
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
-
-## Contact
-
-- GitHub [@Alexandre-Mir](https://github.com/Alexandre-Mir)
-- Linkedin [@Alexandre-Mir](https://www.linkedin.com/in/alexandre-mir/)
+Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
